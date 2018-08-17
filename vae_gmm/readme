@@ -1,1 +1,4 @@
 Vae_gmm for unsupervised clustering and signal aliasing
+run main.py
+model_vae is pure Variational auto encoder
+model_vae_gnn is VAE +GM
